@@ -4,3 +4,4 @@ echo "The addition of ${NUM1} and ${NUM2} is" $((${NUM1}+${NUM2}))
 date
 hello bhai
 New testing
+hello bhai
